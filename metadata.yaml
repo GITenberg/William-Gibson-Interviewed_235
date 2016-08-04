@@ -1,0 +1,22 @@
+_repo: William-Gibson-Interviewed_235
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salza, Giuseppe
+    gutenberg_agent_id: '131'
+    url: http://www.gutenberg.org/2009/agents/131
+description: ''
+gutenberg_issued: '1995-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '235'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Gibson, William, 1914-2008'
+- !lcc 'PS'
+- GITenberg
+title: William Gibson Interviewed
+url: http://www.gutenberg.org/ebooks/235
